@@ -1,7 +1,7 @@
 /*
-    Student Name:
+    Student Name: Didar Orazgeldiyev
     File Name: script.js
-    Date: 
+    Date: 09/24/23
 */
 
 //Hamburger menu function
